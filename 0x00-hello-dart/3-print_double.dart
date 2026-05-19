@@ -1,6 +1,6 @@
 
 void main(List<String> arguments){
-  double n = 3.1415926;
+  var n = 3.1415926;
   // Convert double pi -> string -> Decimal to avoid direct fromDouble errors  
   //final Decimal piDecimal = Decimal.parse(piValue.toString());
   
