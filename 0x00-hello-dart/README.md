@@ -1,1 +1,3 @@
-# Holberton Dart - Introduction to dart + flutter   * Task 0 : Hello Holberton! cli program
+## Holberton Dart - Introduction to dart + flutter   
+* Task 0 : Hello Holberton! cli program
+* Task 1 : Quotes cli program
