@@ -5,3 +5,4 @@
 * Task 3 : Print double cli program
 * Task 4 : Print string cli program
 * Task 5 : Assertions cli program
+* Task 6 : Positive or negative cli program
