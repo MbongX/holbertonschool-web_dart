@@ -1,1 +1,4 @@
 .idea
+/0x00-hello-dart/.dart_tool/package_config.json
+/0x00-hello-dart/.dart_tool/package_graph.json
+/0x00-hello-dart/pubspec.lock
