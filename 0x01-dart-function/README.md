@@ -6,3 +6,4 @@
 - Task 3 : Factorial Program
 - Task 4 : Outer Inner Program
 - Task 5 : Calculate Area Program
+- Task 6 : Convert to Fahrenheit Program
