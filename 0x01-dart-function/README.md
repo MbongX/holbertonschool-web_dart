@@ -7,3 +7,4 @@
 - Task 4 : Outer Inner Program
 - Task 5 : Calculate Area Program
 - Task 6 : Convert to Fahrenheit Program
+- Task 7 : Basketball Shots Program
